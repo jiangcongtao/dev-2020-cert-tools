@@ -13,3 +13,7 @@
 - Certificate ext named extension
  
   https://www.ibm.com/support/knowledgecenter/SSYKE2_8.0.0/com.ibm.java.security.component.80.doc/security-component/keytoolDocs/commonoptions.html#commonoptions
+
+- Configure a Java HTTP Client to Accept Self-Signed Certificates
+
+  https://kb.novaordis.com/index.php/Configure_a_Java_HTTP_Client_to_Accept_Self-Signed_Certificates
