@@ -4,3 +4,12 @@
 - `kt-jks-chain-ca-ca1-ca2-my.sh`: create certificates chain using keytool in java jks store format
 - `kt-view-certs-in-store.sh` : views ceritifcates in a keystore
 - `kt-pkcs12-self-signed.sh` : create self-signed certificate
+
+## Reference
+- keytool -gencert
+  
+  https://www.ibm.com/support/knowledgecenter/en/SSYKE2_8.0.0/com.ibm.java.security.component.80.doc/security-component/keytoolDocs/gencert.html
+
+- Certificate ext named extension
+ 
+  https://www.ibm.com/support/knowledgecenter/SSYKE2_8.0.0/com.ibm.java.security.component.80.doc/security-component/keytoolDocs/commonoptions.html#commonoptions
